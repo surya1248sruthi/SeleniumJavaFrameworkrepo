@@ -1,0 +1,27 @@
+08:05:55.177 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on login option
+08:05:55.606 [TestNG-tests-3] DEBUG tests.LoginTest -Entered Email address
+08:05:55.831 [TestNG-tests-3] DEBUG tests.LoginTest -Entered Password
+08:05:56.362 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on Login Button
+08:06:06.463 [TestNG-tests-3] DEBUG tests.LoginTest -Login Failed
+08:06:06.464 [TestNG-tests-3] INFO  tests.LoginTest -Login test got passed
+08:06:06.804 [TestNG-tests-3] DEBUG tests.LoginTest -Browser got closed
+08:28:57.027 [TestNG-tests-3] DEBUG tests.LoginTest -Browser got launched
+08:29:01.025 [TestNG-tests-3] DEBUG tests.LoginTest -Navigated to application URL
+08:29:02.027 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on My Account DropDown
+08:29:03.687 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on login option
+08:29:05.194 [TestNG-tests-3] DEBUG tests.LoginTest -Entered Email address
+08:29:05.894 [TestNG-tests-3] DEBUG tests.LoginTest -Entered Password
+08:29:07.597 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on Login Button
+08:29:09.520 [TestNG-tests-3] DEBUG tests.LoginTest -Login is Successfull
+08:29:09.521 [TestNG-tests-3] INFO  tests.LoginTest -Login test got passed
+08:29:10.123 [TestNG-tests-3] DEBUG tests.LoginTest -Browser got closed
+08:29:14.808 [TestNG-tests-3] DEBUG tests.LoginTest -Browser got launched
+08:29:16.371 [TestNG-tests-3] DEBUG tests.LoginTest -Navigated to application URL
+08:29:16.552 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on My Account DropDown
+08:29:17.081 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on login option
+08:29:17.496 [TestNG-tests-3] DEBUG tests.LoginTest -Entered Email address
+08:29:17.760 [TestNG-tests-3] DEBUG tests.LoginTest -Entered Password
+08:29:18.180 [TestNG-tests-3] DEBUG tests.LoginTest -Clicked on Login Button
+08:29:28.244 [TestNG-tests-3] DEBUG tests.LoginTest -Login Failed
+08:29:28.244 [TestNG-tests-3] INFO  tests.LoginTest -Login test got passed
+08:29:28.632 [TestNG-tests-3] DEBUG tests.LoginTest -Browser got closed

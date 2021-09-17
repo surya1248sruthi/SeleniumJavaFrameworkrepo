@@ -1,0 +1,4 @@
+# Created at 2021-09-13T21:13:16.877
+Boot Manifest-JAR contains absolute paths in classpath 'D:\WorkSpace\POMPFproject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
